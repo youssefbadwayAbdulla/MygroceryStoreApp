@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/buy_now_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_account_settings.xml" value="0.2203125" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_cart_black.xml" value="0.2203125" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_cookies.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_dairy.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_desert.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_drink.xml" value="0.2203125" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_egg.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_salad.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable-v24/ic_spices.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/drawable/ic_baseline_format24.xml" value="0.146875" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/activity_all_category.xml" value="0.16" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/activity_product_details.xml" value="0.16" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/all_categroy_row.xml" value="0.13470790378006872" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/categroy_row.xml" value="0.22" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/discounted_row.xml" value="0.33" />
+        <entry key="..\:/Users/copy center/AndroidStudioProjects/MyGroceryStoreApp/app/src/main/res/layout/recently_view_iteams.xml" value="0.335042735042735" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
